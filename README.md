@@ -8,7 +8,7 @@ This repository contains documentation and computational solutions for my indepe
 
 ## Table of Contents
 
-| Project Title and Folder Link  | Research Paper Link | Compuational Solution Link |
+| Project Title and Folder Link  | Research Paper Link | Computational Solution Link |
 |----------------|---------------------|----------------------------------------------------------|
 | [Complex Energy Landscapes: Sherrington-Kirkpatrick Model vs P-Spin Glass Spherical Model](https://github.com/sufali10/MathematicalModelling/tree/main/ResearchProjects/ComplexEnergyLandscapes) |  [Research Paper](ProjectEulerSolutions/Problem1.ipynb) | [Computational Solution](ProjectEulerSolutions/Problem1.ipynb)
 
